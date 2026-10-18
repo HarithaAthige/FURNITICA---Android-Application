@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370961784751",
+    "project_id": "furnitica-bcbfd",
+    "storage_bucket": "furnitica-bcbfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370961784751:android:8632db748346fb72ec595a",
+        "android_client_info": {
+          "package_name": "lk.hari.furnitica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY60FdHnpVRNQJlJcRZ7HQ1DcGKz8ZsrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
