@@ -1,4 +1,4 @@
-\# FURNITICA - Android Furniture Shopping Application
+# FURNITICA - Android Furniture Shopping Application
 
 
 
@@ -6,121 +6,119 @@ Furnitica is an Android m-commerce application designed to make furniture browsi
 
 
 
-\## Features
+## Features
 
 
 
-\- Browse furniture by category, including living room, bedroom, and office products
+- Browse furniture by category, including living room, bedroom, and office products
 
-\- View detailed product information, images, prices, ratings, stock availability, and attributes
+- View detailed product information, images, prices, ratings, stock availability, and attributes
 
-\- Add products to a shopping cart and manage item quantities
+- Add products to a shopping cart and manage item quantities
 
-\- User authentication and profile management
+- User authentication and profile management
 
-\- Secure checkout and payment processing with PayHere
+- Secure checkout and payment processing with PayHere
 
-\- Order confirmation and order tracking support
+- Order confirmation and order tracking support
 
-\- Real-time product and user data using Firebase Firestore
+- Real-time product and user data using Firebase Firestore
 
-\- Customer support contact feature
+- Customer support contact feature
 
-\- Google Maps integration for showroom location and navigation
+- Google Maps integration for showroom location and navigation
 
-\- Modern mobile interface with bottom navigation and a product-focused design
+- Modern mobile interface with bottom navigation and a product-focused design
 
 
 
-\## Technology Stack
+## Technology Stack
 
 
 
-\- Java
+- Java
 
-\- Android Studio
+- Android Studio
 
-\- Firebase Authentication
+- Firebase Authentication
 
-\- Firebase Firestore
+- Firebase Firestore
 
-\- Google Maps SDK
+- Google Maps SDK
 
-\- PayHere Payment Gateway
+- PayHere Payment Gateway
 
-\- Material Design components
+- Material Design components
 
-\- Model-View-ViewModel (MVVM) architecture
+- Model-View-ViewModel (MVVM) architecture
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
-1\. Clone this repository:
+1. Clone this repository:
 
 
 
-&#x20;  ```bash
+  ```bash
 
-&#x20;  git clone https://github.com/HarithaAthige/FURNITICA---Android-Application.git
+  git clone https://github.com/HarithaAthige/FURNITICA---Android-Application.git
 
-&#x20;  ```
+  ```
 
 
 
-2\. Open the project in Android Studio.
+2. Open the project in Android Studio.
 
 
 
-3\. Allow Gradle to finish syncing.
+3. Allow Gradle to finish syncing.
 
 
 
-4\. Configure the required Firebase, Google Maps, and PayHere credentials.
+4. Configure the required Firebase, Google Maps, and PayHere credentials.
 
 
 
-5\. Run the application on an Android emulator or a physical Android device.
+5. Run the application on an Android emulator or a physical Android device.
 
 
 
-\## Requirements
+## Requirements
 
 
 
-\- Android Studio
+- Android Studio
 
-\- Android SDK
+- Android SDK
 
-\- Internet connection for authentication, product data, payments, and map services
+- Internet connection for authentication, product data, payments, and map services
 
-\- Firebase project configuration
+- Firebase project configuration
 
-\- Google Maps API key
+- Google Maps API key
 
-\- PayHere payment gateway configuration
+- PayHere payment gateway configuration
 
 
 
-\## Future Improvements
+## Future Improvements
 
 
 
-\- iOS and web versions
+- iOS and web versions
 
-\- Verified customer reviews with image attachments
+- Verified customer reviews with image attachments
 
-\- Augmented-reality furniture preview
+- Augmented-reality furniture preview
 
 
 
 
 
-\## Project Showcase
-
-
+## Project Showcase
 
 
 
